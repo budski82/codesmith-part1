@@ -1,0 +1,15 @@
+const myGrade = 75; 
+
+    if(myGrade <= 70)
+    {
+        console.log(myGrade + " is failing.");
+    }
+    else if(myGrade < 80)
+    {
+        console.log(myGrade + " is passing.");
+    }
+    else
+    {
+        console.log(myGrade + " is great!");
+    }
+
