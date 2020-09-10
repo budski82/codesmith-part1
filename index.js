@@ -1,4 +1,4 @@
-const myGrade = 75;
+const myGrade = 100;
 
     if(myGrade <= 70)
     {
