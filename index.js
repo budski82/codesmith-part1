@@ -12,8 +12,8 @@ const myGrade = 100;
     {
         console.log(myGrade + " is great!");
     }
-/*
+
     if(myGrade === 100)
     {
-        console.log(" my score is perect!!")
-    } */
+        console.log("\n my score is perect!!")
+    }
